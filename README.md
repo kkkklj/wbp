@@ -1,2 +1,2 @@
 # wbp
-project about wbp
+project about webpack
